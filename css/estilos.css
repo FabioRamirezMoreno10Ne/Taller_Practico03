@@ -59,11 +59,9 @@ a{
 
 .colorDiv04{
     
-    display: flex;
+    text-align: center;
     background-color:#e54746;
-    justify-content: center;
-    margin: 25px;
-    gap: 10px;
+    margin: 10px;
     
 }
 
